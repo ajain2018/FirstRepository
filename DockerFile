@@ -1,0 +1,7 @@
+FROM ubuntu
+
+COPY test.sh .
+
+RUN chmod u+x test.sh
+
+ENTRYPOINT bash test.sh

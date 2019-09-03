@@ -1,6 +1,0 @@
-Python Flask Hello World Program on Ubuntu docker image
-
-First pull or run ubuntu image
-
-#docker run -it -name ubuntu ubuntu
-
